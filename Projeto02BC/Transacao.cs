@@ -1,9 +1,4 @@
 ﻿using Proj02;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Projeto02BC
 {
@@ -13,21 +8,16 @@ namespace Projeto02BC
         public ContaBancaria contaDestino { get; set; }
         public DateTime data { get; set; }
         public string tipo { get; set; }
-        private decimal _valor { get; set; }
+        protected decimal _valor { get; set; }
         public decimal valor
         {
             get { return _valor; }
+            set { if (value > 0) _valor = value; }
+        }
 
-            set
-            {
-                if (value > 0)
-                {
-                    _valor = value;
-                }
-                else
-                {
-                    Console.WriteLine("ERRO: Valor da transação deve ser positivo!");
-                }
-            }
+        public virtual bool validar()
+        {
+            return _valor > 0;
         }
     }
+}
