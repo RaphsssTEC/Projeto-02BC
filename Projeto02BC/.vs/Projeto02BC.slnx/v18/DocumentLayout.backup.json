@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\GitHub\\Projeto-02BC\\Projeto02BC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5CDB41E-F476-4D50-8397-FF6512477D12}|Projeto02BC.csproj|c:\\users\\administrator\\documents\\github\\projeto-02bc\\projeto02bc\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5CDB41E-F476-4D50-8397-FF6512477D12}|Projeto02BC.csproj|solutionrelative:contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5CDB41E-F476-4D50-8397-FF6512477D12}|Projeto02BC.csproj|c:\\users\\administrator\\documents\\github\\projeto-02bc\\projeto02bc\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5CDB41E-F476-4D50-8397-FF6512477D12}|Projeto02BC.csproj|solutionrelative:banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5CDB41E-F476-4D50-8397-FF6512477D12}|Projeto02BC.csproj|c:\\users\\administrator\\documents\\github\\projeto-02bc\\projeto02bc\\transacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5CDB41E-F476-4D50-8397-FF6512477D12}|Projeto02BC.csproj|solutionrelative:transacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5CDB41E-F476-4D50-8397-FF6512477D12}|Projeto02BC.csproj|c:\\users\\administrator\\documents\\github\\projeto-02bc\\projeto02bc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5CDB41E-F476-4D50-8397-FF6512477D12}|Projeto02BC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\Projeto-02BC\\Projeto02BC\\ContaBancaria.cs",
+              "RelativeDocumentMoniker": "ContaBancaria.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\Projeto-02BC\\Projeto02BC\\ContaBancaria.cs",
+              "RelativeToolTip": "ContaBancaria.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T02:17:14.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Transacao.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\Projeto-02BC\\Projeto02BC\\Transacao.cs",
+              "RelativeDocumentMoniker": "Transacao.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\Projeto-02BC\\Projeto02BC\\Transacao.cs",
+              "RelativeToolTip": "Transacao.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T01:52:47.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Banco.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\Projeto-02BC\\Projeto02BC\\Banco.cs",
+              "RelativeDocumentMoniker": "Banco.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\Projeto-02BC\\Projeto02BC\\Banco.cs",
+              "RelativeToolTip": "Banco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T01:52:39.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\Projeto-02BC\\Projeto02BC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\Projeto-02BC\\Projeto02BC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T01:47:48.032Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
