@@ -12,7 +12,7 @@ namespace Projeto02BC
 
         public override bool validar()
         {
-            return _valor > 5000;
+            return base.validar() && _valor > 5000;
         }
     }
 }

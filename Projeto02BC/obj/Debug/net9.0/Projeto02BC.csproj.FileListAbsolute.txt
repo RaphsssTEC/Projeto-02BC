@@ -1,0 +1,15 @@
+C:\Users\tarde.cetafest\Documents\Projeto-02BC\Projeto02BC\bin\Debug\net9.0\Projeto02BC.exe
+C:\Users\tarde.cetafest\Documents\Projeto-02BC\Projeto02BC\bin\Debug\net9.0\Projeto02BC.deps.json
+C:\Users\tarde.cetafest\Documents\Projeto-02BC\Projeto02BC\bin\Debug\net9.0\Projeto02BC.runtimeconfig.json
+C:\Users\tarde.cetafest\Documents\Projeto-02BC\Projeto02BC\bin\Debug\net9.0\Projeto02BC.dll
+C:\Users\tarde.cetafest\Documents\Projeto-02BC\Projeto02BC\bin\Debug\net9.0\Projeto02BC.pdb
+C:\Users\tarde.cetafest\Documents\Projeto-02BC\Projeto02BC\obj\Debug\net9.0\Projeto02BC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarde.cetafest\Documents\Projeto-02BC\Projeto02BC\obj\Debug\net9.0\Projeto02BC.AssemblyInfoInputs.cache
+C:\Users\tarde.cetafest\Documents\Projeto-02BC\Projeto02BC\obj\Debug\net9.0\Projeto02BC.AssemblyInfo.cs
+C:\Users\tarde.cetafest\Documents\Projeto-02BC\Projeto02BC\obj\Debug\net9.0\Projeto02BC.csproj.CoreCompileInputs.cache
+C:\Users\tarde.cetafest\Documents\Projeto-02BC\Projeto02BC\obj\Debug\net9.0\Projeto02BC.sourcelink.json
+C:\Users\tarde.cetafest\Documents\Projeto-02BC\Projeto02BC\obj\Debug\net9.0\Projeto02BC.dll
+C:\Users\tarde.cetafest\Documents\Projeto-02BC\Projeto02BC\obj\Debug\net9.0\refint\Projeto02BC.dll
+C:\Users\tarde.cetafest\Documents\Projeto-02BC\Projeto02BC\obj\Debug\net9.0\Projeto02BC.pdb
+C:\Users\tarde.cetafest\Documents\Projeto-02BC\Projeto02BC\obj\Debug\net9.0\Projeto02BC.genruntimeconfig.cache
+C:\Users\tarde.cetafest\Documents\Projeto-02BC\Projeto02BC\obj\Debug\net9.0\ref\Projeto02BC.dll

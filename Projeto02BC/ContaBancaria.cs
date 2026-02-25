@@ -1,27 +1,28 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Projeto02BC;
 
 namespace Proj02
 {
-    public class ContaBancaria
+    public abstract class ContaBancaria
     {
+        public Cliente titular { get; set; }
         public string agencia { get; set; }
         public string numeroConta { get; set; }
-        public decimal saldo { get; private set; }
-
-        public void setSaldo(decimal valor) 
+        public decimal saldo
         {
-            if (valor >= 0)
+            get { return saldo; }
+            protected set
             {
-                this.saldo = valor;
+                if (value <= 0)
+                {
+                    Console.WriteLine("Não foi possivel atribuir o saldo.");
+                    return;
+                }
+
+                this.saldo = value;
                 return;
             }
-
-            Console.WriteLine("Não foi possivel atribuir o saldo.");
-            return;
         }
+
+        public abstract void calcularTarifa();
     }
 }
