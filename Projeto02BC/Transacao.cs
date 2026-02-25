@@ -2,7 +2,7 @@
 
 namespace Projeto02BC
 {
-    public class Transacao
+    public abstract class Transacao
     {
         public ContaBancaria contaOrigem { get; set; }
         public ContaBancaria contaDestino { get; set; }
@@ -17,7 +17,7 @@ namespace Projeto02BC
 
         public virtual bool validar()
         {
-            return _valor > 0;
+            return _valor > 0 && contaOrigem != null && contaDestino != null ;
         }
     }
 }
