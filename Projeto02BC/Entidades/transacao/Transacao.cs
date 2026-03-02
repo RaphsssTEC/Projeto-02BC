@@ -1,6 +1,6 @@
-﻿using Proj02;
+﻿using Projeto02BC.Services;
 
-namespace Projeto02BC
+namespace Projeto02BC.Entidades.transacao
 {
     public abstract class Transacao
     {
