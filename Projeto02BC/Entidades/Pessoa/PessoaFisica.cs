@@ -1,4 +1,4 @@
-﻿namespace Projeto02BC
+﻿namespace Projeto02BC.Entidades.Pessoa
 {
     public class PessoaFisica : Cliente
     {
@@ -7,7 +7,7 @@
             get { return CPF; }
             set
             {
-                if (String.IsNullOrEmpty(value))
+                if (string.IsNullOrEmpty(value))
                 {
                     Console.WriteLine("Ñão foi possivel definir o CPF.");
                     return;

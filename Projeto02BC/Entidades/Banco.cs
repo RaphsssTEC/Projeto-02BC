@@ -1,4 +1,4 @@
-﻿namespace Projeto02BC
+﻿namespace Projeto02BC.Entidades
 {
     public class Banco
     {
@@ -10,6 +10,7 @@
             set
             {
                 // TODO: Validar o código do Bacen
+                _codigoBacen = value;
             }
         }
     }

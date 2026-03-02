@@ -1,6 +1,6 @@
-﻿using Projeto02BC;
+﻿using Projeto02BC.Entidades;
 
-namespace Proj02
+namespace Projeto02BC.Services
 {
     public abstract class ContaBancaria
     {
@@ -18,7 +18,7 @@ namespace Proj02
                     return;
                 }
 
-                this.saldo = value;
+                saldo = value;
                 return;
             }
         }

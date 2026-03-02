@@ -1,4 +1,4 @@
-﻿namespace Projeto02BC
+﻿namespace Projeto02BC.Entidades
 {
     public abstract class Cliente
     {

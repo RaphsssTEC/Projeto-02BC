@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Projeto02BC
+namespace Projeto02BC.Entidades.Pessoa
 {
     public class PessoaJuridica : Cliente
     {
@@ -13,7 +13,7 @@ namespace Projeto02BC
             get { return CNPJ; }
             set
             {
-                if (String.IsNullOrEmpty(value))
+                if (string.IsNullOrEmpty(value))
                 {
                     Console.WriteLine("Ñão foi possivel definir o CNPJ.");
                     return;
